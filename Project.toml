@@ -1,0 +1,20 @@
+name = "Labrys"
+uuid = "af533c5c-eede-4464-9500-44c97c981f4c"
+authors = ["Sasha Petrenko <sap625@mst.edu>"]
+version = "0.1.0"
+
+[deps]
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+NumericalTypeAliases = "be9b823e-291e-41a1-b8ce-806204e78f92"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+
+[compat]
+DocStringExtensions = "0.9.3"
+DrWatson = "2.18.0"
+Logging = "1.11.0"
+NumericalTypeAliases = "0.2.4"
+Parameters = "0.12.3"
+ProgressMeter = "1.10.2"
