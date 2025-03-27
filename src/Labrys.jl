@@ -17,7 +17,6 @@ module Labrys
 # DEPENDENCIES
 # -----------------------------------------------------------------------------
 
-
 using
     DrWatson,
     DocStringExtensions,
@@ -33,6 +32,7 @@ greet() = print("Hello World!")
 # INCLUDES
 # -----------------------------------------------------------------------------
 
+include("lib/lib.jl")
 
 # -----------------------------------------------------------------------------
 # DERIVATIVE TYPES AND CONSTANTS
