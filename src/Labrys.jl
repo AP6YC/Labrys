@@ -43,5 +43,6 @@ include("lib/lib.jl")
 # EXPORTS
 # -----------------------------------------------------------------------------
 
+export greet
 
 end # module Labrys
