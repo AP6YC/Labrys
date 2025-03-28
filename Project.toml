@@ -18,5 +18,3 @@ Logging = "1.11.0"
 NumericalTypeAliases = "0.2.4"
 Parameters = "0.12.3"
 ProgressMeter = "1.10.2"
-
-[sources]
