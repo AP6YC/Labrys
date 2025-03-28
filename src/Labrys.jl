@@ -1,5 +1,5 @@
 """
-
+Main module for `Labrys.jl`, a personal Julia package for common machine learning research project tools.
 
 # Imports
 
