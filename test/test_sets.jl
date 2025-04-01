@@ -22,6 +22,6 @@ using Test
     # Temp dir for testing
     # test_dir = "testing"
     @assert 1 == 1
-    # @info OAR.work_dir(test_dir)
-    # @info OAR.results_dir(test_dir)
+    # @info Labrys.work_dir(test_dir)
+    # @info Labrys.results_dir(test_dir)
 end
