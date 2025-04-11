@@ -9,6 +9,7 @@ DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 NumericalTypeAliases = "be9b823e-291e-41a1-b8ce-806204e78f92"
 Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 
 [compat]
@@ -17,4 +18,5 @@ DrWatson = "2.18.0"
 Logging = "1.11.0"
 NumericalTypeAliases = "0.2.4"
 Parameters = "0.12.3"
+Printf = "1.11.0"
 ProgressMeter = "1.10.2"

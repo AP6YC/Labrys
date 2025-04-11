@@ -23,6 +23,7 @@ using
     ProgressMeter,
     NumericalTypeAliases,
     Logging,
+    Printf,
     Parameters
 
 greet() = print("Hello World!")
