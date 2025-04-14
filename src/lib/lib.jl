@@ -12,6 +12,8 @@ This file aggregates the library code from other files for the `DeepART` project
 # INCLUDES
 # -----------------------------------------------------------------------------
 
+include("colors.jl")
+
 # Constants definitions
 include("constants.jl")
 

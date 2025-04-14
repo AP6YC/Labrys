@@ -18,6 +18,8 @@ module Labrys
 # -----------------------------------------------------------------------------
 
 using
+    ColorSchemes,
+    Colors,
     DrWatson,
     DocStringExtensions,
     ProgressMeter,
